@@ -1,0 +1,8 @@
+fileFormatVersion: 2
+guid: 6a47763feef5c9f4c8cb556c33b87c15
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - teleport: {fileID: 8300000, guid: e527f0fdc13495a4d85f12f11e750ac2, type: 1}
+  executionOrder: 0
+  icon: {instanceID: 0}
