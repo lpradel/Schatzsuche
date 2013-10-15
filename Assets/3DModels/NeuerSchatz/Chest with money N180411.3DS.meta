@@ -1,7 +1,1180 @@
 fileFormatVersion: 2
 guid: 0397c99e1a0e5ad499b168975c7a0729
 ModelImporter:
+  serializedVersion: 15
   fileIDToRecycleName:
+    100000: Coin42
+    100002: Coin41
+    100004: Coin40
+    100006: Coin39
+    100008: Coin38
+    100010: Group61
+    100012: Coin61
+    100014: Coin60
+    100016: Coin59
+    100018: Coin58
+    100020: Coin57
+    100022: Sphere176
+    100024: Sphere177
+    100026: Sphere178
+    100028: Sphere214
+    100030: Sphere184
+    100032: Sphere185
+    100034: Sphere186
+    100036: Sphere193
+    100038: Sphere194
+    100040: Sphere195
+    100042: Sphere196
+    100044: Sphere197
+    100046: Sphere198
+    100048: Sphere199
+    100050: Group59
+    100052: Coin25
+    100054: Coin24
+    100056: Coin23
+    100058: Coin22
+    100060: Coin21
+    100062: Coin20
+    100064: Group58
+    100066: Coin13
+    100068: Coin11
+    100070: Coin10
+    100072: Rectangl25
+    100074: Group43
+    100076: Sphere114
+    100078: Sphere113
+    100080: Rectangl24
+    100082: Group42
+    100084: Sphere112
+    100086: Sphere108
+    100088: Rectangl23
+    100090: Group41
+    100092: Sphere150
+    100094: Sphere149
+    100096: Rectangl22
+    100098: Group51
+    100100: Sphere152
+    100102: Sphere151
+    100104: Rectangl21
+    100106: Group52
+    100108: Sphere92
+    100110: Sphere91
+    100112: Sphere200
+    100114: Sphere201
+    100116: Sphere202
+    100118: Sphere203
+    100120: Sphere204
+    100122: Sphere205
+    100124: Sphere206
+    100126: Sphere207
+    100128: Sphere208
+    100130: Sphere209
+    100132: Sphere210
+    100134: Sphere211
+    100136: Sphere212
+    100138: Sphere213
+    100140: Coin85
+    100142: Coin84
+    100144: Coin83
+    100146: Coin82
+    100148: Coin81
+    100150: Coin80
+    100152: Group68
+    100154: Coin19
+    100156: Coin18
+    100158: Coin17
+    100160: Coin16
+    100162: Coin15
+    100164: Coin14
+    100166: Group57
+    100168: Coin37
+    100170: Coin36
+    100172: Coin35
+    100174: Coin34
+    100176: Coin33
+    100178: Coin32
+    100180: Group60
+    100182: Coin43
+    100184: Sphere31
+    100186: Sphere64
+    100188: Sphere63
+    100190: Sphere62
+    100192: Sphere61
+    100194: Group25
+    100196: Rectangle8
+    100198: Rectangle7
+    100200: Rectangle6
+    100202: Rectangle2
+    100204: osnSunduk
+    100206: Sphere144
+    100208: Sphere143
+    100210: Rectangle1
+    100212: Group48
+    100214: Sphere120
+    100216: Rectangle0
+    100218: Sphere119
+    100220: Group45
+    100222: Sphere107
+    100224: Sphere106
+    100226: Sphere105
+    100228: Sphere104
+    100230: Sphere103
+    100232: Rectangle4
+    100234: Group40
+    100236: Rectangle3
+    100238: Sphere74
+    100240: Sphere73
+    100242: Sphere72
+    100244: Sphere71
+    100246: Sphere70
+    100248: Group27
+    100250: Circle26
+    100252: Circle54
+    100254: Circle115
+    100256: Sphere162
+    100258: Sphere161
+    100260: Sphere160
+    100262: Sphere159
+    100264: Sphere158
+    100266: Circle117
+    100268: Group53
+    100270: Line17
+    100272: Rectangle5
+    100274: Sphere173
+    100276: Sphere167
+    100278: Sphere166
+    100280: Sphere165
+    100282: Sphere164
+    100284: Circle118
+    100286: Sphere163
+    100288: Group54
+    100290: Sphere132
+    100292: Sphere131
+    100294: Sphere130
+    100296: Sphere129
+    100298: Sphere126
+    100300: Circle55
+    100302: Sphere123
+    100304: Sphere122
+    100306: Sphere121
+    100308: Sphere125
+    100310: Sphere124
+    100312: Group46
+    100314: Sphere172
+    100316: Sphere171
+    100318: Sphere170
+    100320: Sphere169
+    100322: Circle119
+    100324: Sphere168
+    100326: Group55
+    100328: Sphere142
+    100330: Sphere93
+    100332: Rectangl29
+    100334: Group38
+    100336: Sphere148
+    100338: Sphere147
+    100340: Rectangl28
+    100342: Group50
+    100344: Sphere146
+    100346: Sphere145
+    100348: Rectangl27
+    100350: Group49
+    100352: Sphere118
+    100354: Sphere117
+    100356: Rectangl26
+    100358: Group44
+    100360: Sphere116
+    100362: Sphere115
+    100364: Coin51
+    100366: Coin50
+    100368: Group63
+    100370: Coin49
+    100372: Coin48
+    100374: Coin47
+    100376: Coin46
+    100378: Coin45
+    100380: Coin44
+    100382: Group62
+    100384: moneti
+    100386: karta
+    100388: Box15
+    100390: Sphere141
+    100392: Sphere140
+    100394: Circle116
+    100396: Sphere139
+    100398: Sphere138
+    100400: Sphere137
+    100402: Sphere136
+    100404: Sphere135
+    100406: Sphere134
+    100408: Sphere133
+    100410: Group47
+    100412: krishka
+    100414: sunduk
+    100416: //RootNode
+    100418: Sphere192
+    100420: Sphere191
+    100422: Sphere190
+    100424: Sphere189
+    100426: Sphere188
+    100428: Sphere187
+    100430: Sphere183
+    100432: Sphere182
+    100434: Sphere181
+    100436: Sphere180
+    100438: Sphere179
+    100440: Line25
+    100442: Sphere174
+    100444: Sphere175
+    100446: Sphere215
+    100448: jemchug
+    100450: Rectangl33
+    100452: Rectangl32
+    100454: Rectangl31
+    100456: Sphere102
+    100458: Sphere101
+    100460: Sphere100
+    100462: Sphere99
+    100464: Sphere98
+    100466: Rectangl30
+    100468: Group39
+    100470: Sphere97
+    100472: Sphere96
+    100474: Sphere95
+    100476: Sphere94
+    100478: Coin67
+    100480: Coin64
+    100482: Group65
+    100484: Coin31
+    100486: Coin30
+    100488: Coin29
+    100490: Coin28
+    100492: Coin27
+    100494: Coin26
+    100496: Coin56
+    100498: Group64
+    100500: Coin73
+    100502: Coin72
+    100504: Coin71
+    100506: Coin70
+    100508: Coin69
+    100510: Coin68
+    100512: Group66
+    100514: Coin55
+    100516: Coin54
+    100518: Coin53
+    100520: Coin52
+    100522: Coin09
+    100524: Coin08
+    100526: Coin07
+    100528: Group56
+    100530: Coin79
+    100532: Coin78
+    100534: Coin77
+    100536: Coin76
+    100538: Coin75
+    100540: Coin74
+    100542: Group67
+    100544: Rectangl20
+    100546: Group37
+    100548: Sphere90
+    100550: Sphere89
+    100552: Rectangl19
+    100554: Group36
+    100556: Sphere88
+    100558: Sphere87
+    100560: Rectangl18
+    100562: Group35
+    100564: Sphere86
+    100566: Sphere85
+    100568: Rectangl17
+    100570: Group34
+    100572: Sphere84
+    100574: Sphere83
+    100576: Rectangl16
+    100578: Group33
+    100580: Sphere82
+    100582: Sphere81
+    100584: Rectangl15
+    100586: Group32
+    100588: Sphere80
+    100590: Sphere79
+    100592: Rectangl14
+    100594: Group31
+    100596: Sphere78
+    100598: Sphere77
+    100600: Rectangl13
+    100602: Group30
+    100604: Sphere76
+    100606: Sphere75
+    100608: Rectangl12
+    100610: Group29
+    100612: Rectangl11
+    100614: Sphere60
+    100616: Sphere59
+    100618: Group28
+    100620: Rectangl10
+    100622: Sphere69
+    100624: Sphere68
+    100626: Sphere67
+    100628: Sphere66
+    100630: Sphere65
+    100632: Group26
+    100634: Rectangle9
+    400000: Coin42
+    400002: Coin41
+    400004: Coin40
+    400006: Coin39
+    400008: Coin38
+    400010: Group61
+    400012: Coin61
+    400014: Coin60
+    400016: Coin59
+    400018: Coin58
+    400020: Coin57
+    400022: Sphere176
+    400024: Sphere177
+    400026: Sphere178
+    400028: Sphere214
+    400030: Sphere184
+    400032: Sphere185
+    400034: Sphere186
+    400036: Sphere193
+    400038: Sphere194
+    400040: Sphere195
+    400042: Sphere196
+    400044: Sphere197
+    400046: Sphere198
+    400048: Sphere199
+    400050: Group59
+    400052: Coin25
+    400054: Coin24
+    400056: Coin23
+    400058: Coin22
+    400060: Coin21
+    400062: Coin20
+    400064: Group58
+    400066: Coin13
+    400068: Coin11
+    400070: Coin10
+    400072: Rectangl25
+    400074: Group43
+    400076: Sphere114
+    400078: Sphere113
+    400080: Rectangl24
+    400082: Group42
+    400084: Sphere112
+    400086: Sphere108
+    400088: Rectangl23
+    400090: Group41
+    400092: Sphere150
+    400094: Sphere149
+    400096: Rectangl22
+    400098: Group51
+    400100: Sphere152
+    400102: Sphere151
+    400104: Rectangl21
+    400106: Group52
+    400108: Sphere92
+    400110: Sphere91
+    400112: Sphere200
+    400114: Sphere201
+    400116: Sphere202
+    400118: Sphere203
+    400120: Sphere204
+    400122: Sphere205
+    400124: Sphere206
+    400126: Sphere207
+    400128: Sphere208
+    400130: Sphere209
+    400132: Sphere210
+    400134: Sphere211
+    400136: Sphere212
+    400138: Sphere213
+    400140: Coin85
+    400142: Coin84
+    400144: Coin83
+    400146: Coin82
+    400148: Coin81
+    400150: Coin80
+    400152: Group68
+    400154: Coin19
+    400156: Coin18
+    400158: Coin17
+    400160: Coin16
+    400162: Coin15
+    400164: Coin14
+    400166: Group57
+    400168: Coin37
+    400170: Coin36
+    400172: Coin35
+    400174: Coin34
+    400176: Coin33
+    400178: Coin32
+    400180: Group60
+    400182: Coin43
+    400184: Sphere31
+    400186: Sphere64
+    400188: Sphere63
+    400190: Sphere62
+    400192: Sphere61
+    400194: Group25
+    400196: Rectangle8
+    400198: Rectangle7
+    400200: Rectangle6
+    400202: Rectangle2
+    400204: osnSunduk
+    400206: Sphere144
+    400208: Sphere143
+    400210: Rectangle1
+    400212: Group48
+    400214: Sphere120
+    400216: Rectangle0
+    400218: Sphere119
+    400220: Group45
+    400222: Sphere107
+    400224: Sphere106
+    400226: Sphere105
+    400228: Sphere104
+    400230: Sphere103
+    400232: Rectangle4
+    400234: Group40
+    400236: Rectangle3
+    400238: Sphere74
+    400240: Sphere73
+    400242: Sphere72
+    400244: Sphere71
+    400246: Sphere70
+    400248: Group27
+    400250: Circle26
+    400252: Circle54
+    400254: Circle115
+    400256: Sphere162
+    400258: Sphere161
+    400260: Sphere160
+    400262: Sphere159
+    400264: Sphere158
+    400266: Circle117
+    400268: Group53
+    400270: Line17
+    400272: Rectangle5
+    400274: Sphere173
+    400276: Sphere167
+    400278: Sphere166
+    400280: Sphere165
+    400282: Sphere164
+    400284: Circle118
+    400286: Sphere163
+    400288: Group54
+    400290: Sphere132
+    400292: Sphere131
+    400294: Sphere130
+    400296: Sphere129
+    400298: Sphere126
+    400300: Circle55
+    400302: Sphere123
+    400304: Sphere122
+    400306: Sphere121
+    400308: Sphere125
+    400310: Sphere124
+    400312: Group46
+    400314: Sphere172
+    400316: Sphere171
+    400318: Sphere170
+    400320: Sphere169
+    400322: Circle119
+    400324: Sphere168
+    400326: Group55
+    400328: Sphere142
+    400330: Sphere93
+    400332: Rectangl29
+    400334: Group38
+    400336: Sphere148
+    400338: Sphere147
+    400340: Rectangl28
+    400342: Group50
+    400344: Sphere146
+    400346: Sphere145
+    400348: Rectangl27
+    400350: Group49
+    400352: Sphere118
+    400354: Sphere117
+    400356: Rectangl26
+    400358: Group44
+    400360: Sphere116
+    400362: Sphere115
+    400364: Coin51
+    400366: Coin50
+    400368: Group63
+    400370: Coin49
+    400372: Coin48
+    400374: Coin47
+    400376: Coin46
+    400378: Coin45
+    400380: Coin44
+    400382: Group62
+    400384: moneti
+    400386: karta
+    400388: Box15
+    400390: Sphere141
+    400392: Sphere140
+    400394: Circle116
+    400396: Sphere139
+    400398: Sphere138
+    400400: Sphere137
+    400402: Sphere136
+    400404: Sphere135
+    400406: Sphere134
+    400408: Sphere133
+    400410: Group47
+    400412: krishka
+    400414: sunduk
+    400416: //RootNode
+    400418: Sphere192
+    400420: Sphere191
+    400422: Sphere190
+    400424: Sphere189
+    400426: Sphere188
+    400428: Sphere187
+    400430: Sphere183
+    400432: Sphere182
+    400434: Sphere181
+    400436: Sphere180
+    400438: Sphere179
+    400440: Line25
+    400442: Sphere174
+    400444: Sphere175
+    400446: Sphere215
+    400448: jemchug
+    400450: Rectangl33
+    400452: Rectangl32
+    400454: Rectangl31
+    400456: Sphere102
+    400458: Sphere101
+    400460: Sphere100
+    400462: Sphere99
+    400464: Sphere98
+    400466: Rectangl30
+    400468: Group39
+    400470: Sphere97
+    400472: Sphere96
+    400474: Sphere95
+    400476: Sphere94
+    400478: Coin67
+    400480: Coin64
+    400482: Group65
+    400484: Coin31
+    400486: Coin30
+    400488: Coin29
+    400490: Coin28
+    400492: Coin27
+    400494: Coin26
+    400496: Coin56
+    400498: Group64
+    400500: Coin73
+    400502: Coin72
+    400504: Coin71
+    400506: Coin70
+    400508: Coin69
+    400510: Coin68
+    400512: Group66
+    400514: Coin55
+    400516: Coin54
+    400518: Coin53
+    400520: Coin52
+    400522: Coin09
+    400524: Coin08
+    400526: Coin07
+    400528: Group56
+    400530: Coin79
+    400532: Coin78
+    400534: Coin77
+    400536: Coin76
+    400538: Coin75
+    400540: Coin74
+    400542: Group67
+    400544: Rectangl20
+    400546: Group37
+    400548: Sphere90
+    400550: Sphere89
+    400552: Rectangl19
+    400554: Group36
+    400556: Sphere88
+    400558: Sphere87
+    400560: Rectangl18
+    400562: Group35
+    400564: Sphere86
+    400566: Sphere85
+    400568: Rectangl17
+    400570: Group34
+    400572: Sphere84
+    400574: Sphere83
+    400576: Rectangl16
+    400578: Group33
+    400580: Sphere82
+    400582: Sphere81
+    400584: Rectangl15
+    400586: Group32
+    400588: Sphere80
+    400590: Sphere79
+    400592: Rectangl14
+    400594: Group31
+    400596: Sphere78
+    400598: Sphere77
+    400600: Rectangl13
+    400602: Group30
+    400604: Sphere76
+    400606: Sphere75
+    400608: Rectangl12
+    400610: Group29
+    400612: Rectangl11
+    400614: Sphere60
+    400616: Sphere59
+    400618: Group28
+    400620: Rectangl10
+    400622: Sphere69
+    400624: Sphere68
+    400626: Sphere67
+    400628: Sphere66
+    400630: Sphere65
+    400632: Group26
+    400634: Rectangle9
+    2300000: Coin42
+    2300002: Coin41
+    2300004: Coin40
+    2300006: Coin39
+    2300008: Coin38
+    2300010: Coin61
+    2300012: Coin60
+    2300014: Coin59
+    2300016: Coin58
+    2300018: Coin57
+    2300020: Sphere176
+    2300022: Sphere177
+    2300024: Sphere178
+    2300026: Sphere214
+    2300028: Sphere184
+    2300030: Sphere185
+    2300032: Sphere186
+    2300034: Sphere193
+    2300036: Sphere194
+    2300038: Sphere195
+    2300040: Sphere196
+    2300042: Sphere197
+    2300044: Sphere198
+    2300046: Sphere199
+    2300048: Coin25
+    2300050: Coin24
+    2300052: Coin23
+    2300054: Coin22
+    2300056: Coin21
+    2300058: Coin20
+    2300060: Coin13
+    2300062: Coin11
+    2300064: Coin10
+    2300066: Rectangl25
+    2300068: Sphere114
+    2300070: Sphere113
+    2300072: Rectangl24
+    2300074: Sphere112
+    2300076: Sphere108
+    2300078: Rectangl23
+    2300080: Sphere150
+    2300082: Sphere149
+    2300084: Rectangl22
+    2300086: Sphere152
+    2300088: Sphere151
+    2300090: Rectangl21
+    2300092: Sphere92
+    2300094: Sphere91
+    2300096: Sphere200
+    2300098: Sphere201
+    2300100: Sphere202
+    2300102: Sphere203
+    2300104: Sphere204
+    2300106: Sphere205
+    2300108: Sphere206
+    2300110: Sphere207
+    2300112: Sphere208
+    2300114: Sphere209
+    2300116: Sphere210
+    2300118: Sphere211
+    2300120: Sphere212
+    2300122: Sphere213
+    2300124: Coin85
+    2300126: Coin84
+    2300128: Coin83
+    2300130: Coin82
+    2300132: Coin81
+    2300134: Coin80
+    2300136: Coin19
+    2300138: Coin18
+    2300140: Coin17
+    2300142: Coin16
+    2300144: Coin15
+    2300146: Coin14
+    2300148: Coin37
+    2300150: Coin36
+    2300152: Coin35
+    2300154: Coin34
+    2300156: Coin33
+    2300158: Coin32
+    2300160: Coin43
+    2300162: Sphere31
+    2300164: Sphere64
+    2300166: Sphere63
+    2300168: Sphere62
+    2300170: Sphere61
+    2300172: Rectangle8
+    2300174: Rectangle7
+    2300176: Rectangle6
+    2300178: Rectangle2
+    2300180: Sphere144
+    2300182: Sphere143
+    2300184: Rectangle1
+    2300186: Sphere120
+    2300188: Rectangle0
+    2300190: Sphere119
+    2300192: Sphere107
+    2300194: Sphere106
+    2300196: Sphere105
+    2300198: Sphere104
+    2300200: Sphere103
+    2300202: Rectangle4
+    2300204: Rectangle3
+    2300206: Sphere74
+    2300208: Sphere73
+    2300210: Sphere72
+    2300212: Sphere71
+    2300214: Sphere70
+    2300216: Circle26
+    2300218: Circle54
+    2300220: Circle115
+    2300222: Sphere162
+    2300224: Sphere161
+    2300226: Sphere160
+    2300228: Sphere159
+    2300230: Sphere158
+    2300232: Circle117
+    2300234: Line17
+    2300236: Rectangle5
+    2300238: Sphere173
+    2300240: Sphere167
+    2300242: Sphere166
+    2300244: Sphere165
+    2300246: Sphere164
+    2300248: Circle118
+    2300250: Sphere163
+    2300252: Sphere132
+    2300254: Sphere131
+    2300256: Sphere130
+    2300258: Sphere129
+    2300260: Sphere126
+    2300262: Circle55
+    2300264: Sphere123
+    2300266: Sphere122
+    2300268: Sphere121
+    2300270: Sphere125
+    2300272: Sphere124
+    2300274: Sphere172
+    2300276: Sphere171
+    2300278: Sphere170
+    2300280: Sphere169
+    2300282: Circle119
+    2300284: Sphere168
+    2300286: Sphere142
+    2300288: Sphere93
+    2300290: Rectangl29
+    2300292: Sphere148
+    2300294: Sphere147
+    2300296: Rectangl28
+    2300298: Sphere146
+    2300300: Sphere145
+    2300302: Rectangl27
+    2300304: Sphere118
+    2300306: Sphere117
+    2300308: Rectangl26
+    2300310: Sphere116
+    2300312: Sphere115
+    2300314: Coin51
+    2300316: Coin50
+    2300318: Coin49
+    2300320: Coin48
+    2300322: Coin47
+    2300324: Coin46
+    2300326: Coin45
+    2300328: Coin44
+    2300330: karta
+    2300332: Box15
+    2300334: Sphere141
+    2300336: Sphere140
+    2300338: Circle116
+    2300340: Sphere139
+    2300342: Sphere138
+    2300344: Sphere137
+    2300346: Sphere136
+    2300348: Sphere135
+    2300350: Sphere134
+    2300352: Sphere133
+    2300354: Sphere192
+    2300356: Sphere191
+    2300358: Sphere190
+    2300360: Sphere189
+    2300362: Sphere188
+    2300364: Sphere187
+    2300366: Sphere183
+    2300368: Sphere182
+    2300370: Sphere181
+    2300372: Sphere180
+    2300374: Sphere179
+    2300376: Line25
+    2300378: Sphere174
+    2300380: Sphere175
+    2300382: Sphere215
+    2300384: Rectangl33
+    2300386: Rectangl32
+    2300388: Rectangl31
+    2300390: Sphere102
+    2300392: Sphere101
+    2300394: Sphere100
+    2300396: Sphere99
+    2300398: Sphere98
+    2300400: Rectangl30
+    2300402: Sphere97
+    2300404: Sphere96
+    2300406: Sphere95
+    2300408: Sphere94
+    2300410: Coin67
+    2300412: Coin64
+    2300414: Coin31
+    2300416: Coin30
+    2300418: Coin29
+    2300420: Coin28
+    2300422: Coin27
+    2300424: Coin26
+    2300426: Coin56
+    2300428: Coin73
+    2300430: Coin72
+    2300432: Coin71
+    2300434: Coin70
+    2300436: Coin69
+    2300438: Coin68
+    2300440: Coin55
+    2300442: Coin54
+    2300444: Coin53
+    2300446: Coin52
+    2300448: Coin09
+    2300450: Coin08
+    2300452: Coin07
+    2300454: Coin79
+    2300456: Coin78
+    2300458: Coin77
+    2300460: Coin76
+    2300462: Coin75
+    2300464: Coin74
+    2300466: Rectangl20
+    2300468: Sphere90
+    2300470: Sphere89
+    2300472: Rectangl19
+    2300474: Sphere88
+    2300476: Sphere87
+    2300478: Rectangl18
+    2300480: Sphere86
+    2300482: Sphere85
+    2300484: Rectangl17
+    2300486: Sphere84
+    2300488: Sphere83
+    2300490: Rectangl16
+    2300492: Sphere82
+    2300494: Sphere81
+    2300496: Rectangl15
+    2300498: Sphere80
+    2300500: Sphere79
+    2300502: Rectangl14
+    2300504: Sphere78
+    2300506: Sphere77
+    2300508: Rectangl13
+    2300510: Sphere76
+    2300512: Sphere75
+    2300514: Rectangl12
+    2300516: Rectangl11
+    2300518: Sphere60
+    2300520: Sphere59
+    2300522: Rectangl10
+    2300524: Sphere69
+    2300526: Sphere68
+    2300528: Sphere67
+    2300530: Sphere66
+    2300532: Sphere65
+    2300534: Rectangle9
+    3300000: Coin42
+    3300002: Coin41
+    3300004: Coin40
+    3300006: Coin39
+    3300008: Coin38
+    3300010: Coin61
+    3300012: Coin60
+    3300014: Coin59
+    3300016: Coin58
+    3300018: Coin57
+    3300020: Sphere176
+    3300022: Sphere177
+    3300024: Sphere178
+    3300026: Sphere214
+    3300028: Sphere184
+    3300030: Sphere185
+    3300032: Sphere186
+    3300034: Sphere193
+    3300036: Sphere194
+    3300038: Sphere195
+    3300040: Sphere196
+    3300042: Sphere197
+    3300044: Sphere198
+    3300046: Sphere199
+    3300048: Coin25
+    3300050: Coin24
+    3300052: Coin23
+    3300054: Coin22
+    3300056: Coin21
+    3300058: Coin20
+    3300060: Coin13
+    3300062: Coin11
+    3300064: Coin10
+    3300066: Rectangl25
+    3300068: Sphere114
+    3300070: Sphere113
+    3300072: Rectangl24
+    3300074: Sphere112
+    3300076: Sphere108
+    3300078: Rectangl23
+    3300080: Sphere150
+    3300082: Sphere149
+    3300084: Rectangl22
+    3300086: Sphere152
+    3300088: Sphere151
+    3300090: Rectangl21
+    3300092: Sphere92
+    3300094: Sphere91
+    3300096: Sphere200
+    3300098: Sphere201
+    3300100: Sphere202
+    3300102: Sphere203
+    3300104: Sphere204
+    3300106: Sphere205
+    3300108: Sphere206
+    3300110: Sphere207
+    3300112: Sphere208
+    3300114: Sphere209
+    3300116: Sphere210
+    3300118: Sphere211
+    3300120: Sphere212
+    3300122: Sphere213
+    3300124: Coin85
+    3300126: Coin84
+    3300128: Coin83
+    3300130: Coin82
+    3300132: Coin81
+    3300134: Coin80
+    3300136: Coin19
+    3300138: Coin18
+    3300140: Coin17
+    3300142: Coin16
+    3300144: Coin15
+    3300146: Coin14
+    3300148: Coin37
+    3300150: Coin36
+    3300152: Coin35
+    3300154: Coin34
+    3300156: Coin33
+    3300158: Coin32
+    3300160: Coin43
+    3300162: Sphere31
+    3300164: Sphere64
+    3300166: Sphere63
+    3300168: Sphere62
+    3300170: Sphere61
+    3300172: Rectangle8
+    3300174: Rectangle7
+    3300176: Rectangle6
+    3300178: Rectangle2
+    3300180: Sphere144
+    3300182: Sphere143
+    3300184: Rectangle1
+    3300186: Sphere120
+    3300188: Rectangle0
+    3300190: Sphere119
+    3300192: Sphere107
+    3300194: Sphere106
+    3300196: Sphere105
+    3300198: Sphere104
+    3300200: Sphere103
+    3300202: Rectangle4
+    3300204: Rectangle3
+    3300206: Sphere74
+    3300208: Sphere73
+    3300210: Sphere72
+    3300212: Sphere71
+    3300214: Sphere70
+    3300216: Circle26
+    3300218: Circle54
+    3300220: Circle115
+    3300222: Sphere162
+    3300224: Sphere161
+    3300226: Sphere160
+    3300228: Sphere159
+    3300230: Sphere158
+    3300232: Circle117
+    3300234: Line17
+    3300236: Rectangle5
+    3300238: Sphere173
+    3300240: Sphere167
+    3300242: Sphere166
+    3300244: Sphere165
+    3300246: Sphere164
+    3300248: Circle118
+    3300250: Sphere163
+    3300252: Sphere132
+    3300254: Sphere131
+    3300256: Sphere130
+    3300258: Sphere129
+    3300260: Sphere126
+    3300262: Circle55
+    3300264: Sphere123
+    3300266: Sphere122
+    3300268: Sphere121
+    3300270: Sphere125
+    3300272: Sphere124
+    3300274: Sphere172
+    3300276: Sphere171
+    3300278: Sphere170
+    3300280: Sphere169
+    3300282: Circle119
+    3300284: Sphere168
+    3300286: Sphere142
+    3300288: Sphere93
+    3300290: Rectangl29
+    3300292: Sphere148
+    3300294: Sphere147
+    3300296: Rectangl28
+    3300298: Sphere146
+    3300300: Sphere145
+    3300302: Rectangl27
+    3300304: Sphere118
+    3300306: Sphere117
+    3300308: Rectangl26
+    3300310: Sphere116
+    3300312: Sphere115
+    3300314: Coin51
+    3300316: Coin50
+    3300318: Coin49
+    3300320: Coin48
+    3300322: Coin47
+    3300324: Coin46
+    3300326: Coin45
+    3300328: Coin44
+    3300330: karta
+    3300332: Box15
+    3300334: Sphere141
+    3300336: Sphere140
+    3300338: Circle116
+    3300340: Sphere139
+    3300342: Sphere138
+    3300344: Sphere137
+    3300346: Sphere136
+    3300348: Sphere135
+    3300350: Sphere134
+    3300352: Sphere133
+    3300354: Sphere192
+    3300356: Sphere191
+    3300358: Sphere190
+    3300360: Sphere189
+    3300362: Sphere188
+    3300364: Sphere187
+    3300366: Sphere183
+    3300368: Sphere182
+    3300370: Sphere181
+    3300372: Sphere180
+    3300374: Sphere179
+    3300376: Line25
+    3300378: Sphere174
+    3300380: Sphere175
+    3300382: Sphere215
+    3300384: Rectangl33
+    3300386: Rectangl32
+    3300388: Rectangl31
+    3300390: Sphere102
+    3300392: Sphere101
+    3300394: Sphere100
+    3300396: Sphere99
+    3300398: Sphere98
+    3300400: Rectangl30
+    3300402: Sphere97
+    3300404: Sphere96
+    3300406: Sphere95
+    3300408: Sphere94
+    3300410: Coin67
+    3300412: Coin64
+    3300414: Coin31
+    3300416: Coin30
+    3300418: Coin29
+    3300420: Coin28
+    3300422: Coin27
+    3300424: Coin26
+    3300426: Coin56
+    3300428: Coin73
+    3300430: Coin72
+    3300432: Coin71
+    3300434: Coin70
+    3300436: Coin69
+    3300438: Coin68
+    3300440: Coin55
+    3300442: Coin54
+    3300444: Coin53
+    3300446: Coin52
+    3300448: Coin09
+    3300450: Coin08
+    3300452: Coin07
+    3300454: Coin79
+    3300456: Coin78
+    3300458: Coin77
+    3300460: Coin76
+    3300462: Coin75
+    3300464: Coin74
+    3300466: Rectangl20
+    3300468: Sphere90
+    3300470: Sphere89
+    3300472: Rectangl19
+    3300474: Sphere88
+    3300476: Sphere87
+    3300478: Rectangl18
+    3300480: Sphere86
+    3300482: Sphere85
+    3300484: Rectangl17
+    3300486: Sphere84
+    3300488: Sphere83
+    3300490: Rectangl16
+    3300492: Sphere82
+    3300494: Sphere81
+    3300496: Rectangl15
+    3300498: Sphere80
+    3300500: Sphere79
+    3300502: Rectangl14
+    3300504: Sphere78
+    3300506: Sphere77
+    3300508: Rectangl13
+    3300510: Sphere76
+    3300512: Sphere75
+    3300514: Rectangl12
+    3300516: Rectangl11
+    3300518: Sphere60
+    3300520: Sphere59
+    3300522: Rectangl10
+    3300524: Sphere69
+    3300526: Sphere68
+    3300528: Sphere67
+    3300530: Sphere66
+    3300532: Sphere65
+    3300534: Rectangle9
     4300000: Sphere133
     4300002: Sphere133
     4300004: Sphere133
@@ -270,30 +1443,32 @@ ModelImporter:
     4300530: Coin49
     4300532: Coin45
     4300534: Coin49
-  serializedVersion: 10
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 2
     materialSearch: 1
   animations:
-    generateAnimations: 0
+    legacyGenerateAnimations: 0
     bakeSimulation: 0
-    splitAnimations: 1
     animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5
     animationScaleError: .5
     animationWrapMode: 0
     clipAnimations: []
+    isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: .100000001
     meshCompression: 0
     addColliders: 0
+    importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMesh: 0
+    optimizeMeshForGPU: 1
+    weldVertices: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
@@ -303,3838 +1478,21 @@ ModelImporter:
     splitTangentsAcrossUV: 1
     normalImportMode: 0
     tangentImportMode: 1
-  textMetaNamesToFileIDs:
-    //RootNode:
-      data:
-        first: 1
-        second: 40880100
-      data:
-        first: 4
-        second: 201c0600
-    Box15:
-      data:
-        first: 1
-        second: 24880100
-      data:
-        first: 4
-        second: 041c0600
-      data:
-        first: 23
-        second: ac192300
-      data:
-        first: 33
-        second: ec5b3200
-    Circle115:
-      data:
-        first: 1
-        second: 9e870100
-      data:
-        first: 4
-        second: 7e1b0600
-      data:
-        first: 23
-        second: 3c192300
-      data:
-        first: 33
-        second: 7c5b3200
-    Circle116:
-      data:
-        first: 1
-        second: 2a880100
-      data:
-        first: 4
-        second: 0a1c0600
-      data:
-        first: 23
-        second: b2192300
-      data:
-        first: 33
-        second: f25b3200
-    Circle117:
-      data:
-        first: 1
-        second: aa870100
-      data:
-        first: 4
-        second: 8a1b0600
-      data:
-        first: 23
-        second: 48192300
-      data:
-        first: 33
-        second: 885b3200
-    Circle118:
-      data:
-        first: 1
-        second: bc870100
-      data:
-        first: 4
-        second: 9c1b0600
-      data:
-        first: 23
-        second: 58192300
-      data:
-        first: 33
-        second: 985b3200
-    Circle119:
-      data:
-        first: 1
-        second: e2870100
-      data:
-        first: 4
-        second: c21b0600
-      data:
-        first: 23
-        second: 7a192300
-      data:
-        first: 33
-        second: ba5b3200
-    Circle26:
-      data:
-        first: 1
-        second: 9a870100
-      data:
-        first: 4
-        second: 7a1b0600
-      data:
-        first: 23
-        second: 38192300
-      data:
-        first: 33
-        second: 785b3200
-    Circle54:
-      data:
-        first: 1
-        second: 9c870100
-      data:
-        first: 4
-        second: 7c1b0600
-      data:
-        first: 23
-        second: 3a192300
-      data:
-        first: 33
-        second: 7a5b3200
-    Circle55:
-      data:
-        first: 1
-        second: cc870100
-      data:
-        first: 4
-        second: ac1b0600
-      data:
-        first: 23
-        second: 66192300
-      data:
-        first: 33
-        second: a65b3200
-    Coin07:
-      data:
-        first: 1
-        second: ae880100
-      data:
-        first: 4
-        second: 8e1c0600
-      data:
-        first: 23
-        second: 241a2300
-      data:
-        first: 33
-        second: 645c3200
-    Coin08:
-      data:
-        first: 1
-        second: ac880100
-      data:
-        first: 4
-        second: 8c1c0600
-      data:
-        first: 23
-        second: 221a2300
-      data:
-        first: 33
-        second: 625c3200
-    Coin09:
-      data:
-        first: 1
-        second: aa880100
-      data:
-        first: 4
-        second: 8a1c0600
-      data:
-        first: 23
-        second: 201a2300
-      data:
-        first: 33
-        second: 605c3200
-    Coin10:
-      data:
-        first: 1
-        second: e6860100
-      data:
-        first: 4
-        second: c61a0600
-      data:
-        first: 23
-        second: a0182300
-      data:
-        first: 33
-        second: e05a3200
-    Coin11:
-      data:
-        first: 1
-        second: e4860100
-      data:
-        first: 4
-        second: c41a0600
-      data:
-        first: 23
-        second: 9e182300
-      data:
-        first: 33
-        second: de5a3200
-    Coin13:
-      data:
-        first: 1
-        second: e2860100
-      data:
-        first: 4
-        second: c21a0600
-      data:
-        first: 23
-        second: 9c182300
-      data:
-        first: 33
-        second: dc5a3200
-    Coin14:
-      data:
-        first: 1
-        second: 44870100
-      data:
-        first: 4
-        second: 241b0600
-      data:
-        first: 23
-        second: f2182300
-      data:
-        first: 33
-        second: 325b3200
-    Coin15:
-      data:
-        first: 1
-        second: 42870100
-      data:
-        first: 4
-        second: 221b0600
-      data:
-        first: 23
-        second: f0182300
-      data:
-        first: 33
-        second: 305b3200
-    Coin16:
-      data:
-        first: 1
-        second: 40870100
-      data:
-        first: 4
-        second: 201b0600
-      data:
-        first: 23
-        second: ee182300
-      data:
-        first: 33
-        second: 2e5b3200
-    Coin17:
-      data:
-        first: 1
-        second: 3e870100
-      data:
-        first: 4
-        second: 1e1b0600
-      data:
-        first: 23
-        second: ec182300
-      data:
-        first: 33
-        second: 2c5b3200
-    Coin18:
-      data:
-        first: 1
-        second: 3c870100
-      data:
-        first: 4
-        second: 1c1b0600
-      data:
-        first: 23
-        second: ea182300
-      data:
-        first: 33
-        second: 2a5b3200
-    Coin19:
-      data:
-        first: 1
-        second: 3a870100
-      data:
-        first: 4
-        second: 1a1b0600
-      data:
-        first: 23
-        second: e8182300
-      data:
-        first: 33
-        second: 285b3200
-    Coin20:
-      data:
-        first: 1
-        second: de860100
-      data:
-        first: 4
-        second: be1a0600
-      data:
-        first: 23
-        second: 9a182300
-      data:
-        first: 33
-        second: da5a3200
-    Coin21:
-      data:
-        first: 1
-        second: dc860100
-      data:
-        first: 4
-        second: bc1a0600
-      data:
-        first: 23
-        second: 98182300
-      data:
-        first: 33
-        second: d85a3200
-    Coin22:
-      data:
-        first: 1
-        second: da860100
-      data:
-        first: 4
-        second: ba1a0600
-      data:
-        first: 23
-        second: 96182300
-      data:
-        first: 33
-        second: d65a3200
-    Coin23:
-      data:
-        first: 1
-        second: d8860100
-      data:
-        first: 4
-        second: b81a0600
-      data:
-        first: 23
-        second: 94182300
-      data:
-        first: 33
-        second: d45a3200
-    Coin24:
-      data:
-        first: 1
-        second: d6860100
-      data:
-        first: 4
-        second: b61a0600
-      data:
-        first: 23
-        second: 92182300
-      data:
-        first: 33
-        second: d25a3200
-    Coin25:
-      data:
-        first: 1
-        second: d4860100
-      data:
-        first: 4
-        second: b41a0600
-      data:
-        first: 23
-        second: 90182300
-      data:
-        first: 33
-        second: d05a3200
-    Coin26:
-      data:
-        first: 1
-        second: 8e880100
-      data:
-        first: 4
-        second: 6e1c0600
-      data:
-        first: 23
-        second: 081a2300
-      data:
-        first: 33
-        second: 485c3200
-    Coin27:
-      data:
-        first: 1
-        second: 8c880100
-      data:
-        first: 4
-        second: 6c1c0600
-      data:
-        first: 23
-        second: 061a2300
-      data:
-        first: 33
-        second: 465c3200
-    Coin28:
-      data:
-        first: 1
-        second: 8a880100
-      data:
-        first: 4
-        second: 6a1c0600
-      data:
-        first: 23
-        second: 041a2300
-      data:
-        first: 33
-        second: 445c3200
-    Coin29:
-      data:
-        first: 1
-        second: 88880100
-      data:
-        first: 4
-        second: 681c0600
-      data:
-        first: 23
-        second: 021a2300
-      data:
-        first: 33
-        second: 425c3200
-    Coin30:
-      data:
-        first: 1
-        second: 86880100
-      data:
-        first: 4
-        second: 661c0600
-      data:
-        first: 23
-        second: 001a2300
-      data:
-        first: 33
-        second: 405c3200
-    Coin31:
-      data:
-        first: 1
-        second: 84880100
-      data:
-        first: 4
-        second: 641c0600
-      data:
-        first: 23
-        second: fe192300
-      data:
-        first: 33
-        second: 3e5c3200
-    Coin32:
-      data:
-        first: 1
-        second: 52870100
-      data:
-        first: 4
-        second: 321b0600
-      data:
-        first: 23
-        second: fe182300
-      data:
-        first: 33
-        second: 3e5b3200
-    Coin33:
-      data:
-        first: 1
-        second: 50870100
-      data:
-        first: 4
-        second: 301b0600
-      data:
-        first: 23
-        second: fc182300
-      data:
-        first: 33
-        second: 3c5b3200
-    Coin34:
-      data:
-        first: 1
-        second: 4e870100
-      data:
-        first: 4
-        second: 2e1b0600
-      data:
-        first: 23
-        second: fa182300
-      data:
-        first: 33
-        second: 3a5b3200
-    Coin35:
-      data:
-        first: 1
-        second: 4c870100
-      data:
-        first: 4
-        second: 2c1b0600
-      data:
-        first: 23
-        second: f8182300
-      data:
-        first: 33
-        second: 385b3200
-    Coin36:
-      data:
-        first: 1
-        second: 4a870100
-      data:
-        first: 4
-        second: 2a1b0600
-      data:
-        first: 23
-        second: f6182300
-      data:
-        first: 33
-        second: 365b3200
-    Coin37:
-      data:
-        first: 1
-        second: 48870100
-      data:
-        first: 4
-        second: 281b0600
-      data:
-        first: 23
-        second: f4182300
-      data:
-        first: 33
-        second: 345b3200
-    Coin38:
-      data:
-        first: 1
-        second: a8860100
-      data:
-        first: 4
-        second: 881a0600
-      data:
-        first: 23
-        second: 68182300
-      data:
-        first: 33
-        second: a85a3200
-    Coin39:
-      data:
-        first: 1
-        second: a6860100
-      data:
-        first: 4
-        second: 861a0600
-      data:
-        first: 23
-        second: 66182300
-      data:
-        first: 33
-        second: a65a3200
-    Coin40:
-      data:
-        first: 1
-        second: a4860100
-      data:
-        first: 4
-        second: 841a0600
-      data:
-        first: 23
-        second: 64182300
-      data:
-        first: 33
-        second: a45a3200
-    Coin41:
-      data:
-        first: 1
-        second: a2860100
-      data:
-        first: 4
-        second: 821a0600
-      data:
-        first: 23
-        second: 62182300
-      data:
-        first: 33
-        second: a25a3200
-    Coin42:
-      data:
-        first: 1
-        second: a0860100
-      data:
-        first: 4
-        second: 801a0600
-      data:
-        first: 23
-        second: 60182300
-      data:
-        first: 33
-        second: a05a3200
-    Coin43:
-      data:
-        first: 1
-        second: 56870100
-      data:
-        first: 4
-        second: 361b0600
-      data:
-        first: 23
-        second: 00192300
-      data:
-        first: 33
-        second: 405b3200
-    Coin44:
-      data:
-        first: 1
-        second: 1c880100
-      data:
-        first: 4
-        second: fc1b0600
-      data:
-        first: 23
-        second: a8192300
-      data:
-        first: 33
-        second: e85b3200
-    Coin45:
-      data:
-        first: 1
-        second: 1a880100
-      data:
-        first: 4
-        second: fa1b0600
-      data:
-        first: 23
-        second: a6192300
-      data:
-        first: 33
-        second: e65b3200
-    Coin46:
-      data:
-        first: 1
-        second: 18880100
-      data:
-        first: 4
-        second: f81b0600
-      data:
-        first: 23
-        second: a4192300
-      data:
-        first: 33
-        second: e45b3200
-    Coin47:
-      data:
-        first: 1
-        second: 16880100
-      data:
-        first: 4
-        second: f61b0600
-      data:
-        first: 23
-        second: a2192300
-      data:
-        first: 33
-        second: e25b3200
-    Coin48:
-      data:
-        first: 1
-        second: 14880100
-      data:
-        first: 4
-        second: f41b0600
-      data:
-        first: 23
-        second: a0192300
-      data:
-        first: 33
-        second: e05b3200
-    Coin49:
-      data:
-        first: 1
-        second: 12880100
-      data:
-        first: 4
-        second: f21b0600
-      data:
-        first: 23
-        second: 9e192300
-      data:
-        first: 33
-        second: de5b3200
-    Coin50:
-      data:
-        first: 1
-        second: 0e880100
-      data:
-        first: 4
-        second: ee1b0600
-      data:
-        first: 23
-        second: 9c192300
-      data:
-        first: 33
-        second: dc5b3200
-    Coin51:
-      data:
-        first: 1
-        second: 0c880100
-      data:
-        first: 4
-        second: ec1b0600
-      data:
-        first: 23
-        second: 9a192300
-      data:
-        first: 33
-        second: da5b3200
-    Coin52:
-      data:
-        first: 1
-        second: a8880100
-      data:
-        first: 4
-        second: 881c0600
-      data:
-        first: 23
-        second: 1e1a2300
-      data:
-        first: 33
-        second: 5e5c3200
-    Coin53:
-      data:
-        first: 1
-        second: a6880100
-      data:
-        first: 4
-        second: 861c0600
-      data:
-        first: 23
-        second: 1c1a2300
-      data:
-        first: 33
-        second: 5c5c3200
-    Coin54:
-      data:
-        first: 1
-        second: a4880100
-      data:
-        first: 4
-        second: 841c0600
-      data:
-        first: 23
-        second: 1a1a2300
-      data:
-        first: 33
-        second: 5a5c3200
-    Coin55:
-      data:
-        first: 1
-        second: a2880100
-      data:
-        first: 4
-        second: 821c0600
-      data:
-        first: 23
-        second: 181a2300
-      data:
-        first: 33
-        second: 585c3200
-    Coin56:
-      data:
-        first: 1
-        second: 90880100
-      data:
-        first: 4
-        second: 701c0600
-      data:
-        first: 23
-        second: 0a1a2300
-      data:
-        first: 33
-        second: 4a5c3200
-    Coin57:
-      data:
-        first: 1
-        second: b4860100
-      data:
-        first: 4
-        second: 941a0600
-      data:
-        first: 23
-        second: 72182300
-      data:
-        first: 33
-        second: b25a3200
-    Coin58:
-      data:
-        first: 1
-        second: b2860100
-      data:
-        first: 4
-        second: 921a0600
-      data:
-        first: 23
-        second: 70182300
-      data:
-        first: 33
-        second: b05a3200
-    Coin59:
-      data:
-        first: 1
-        second: b0860100
-      data:
-        first: 4
-        second: 901a0600
-      data:
-        first: 23
-        second: 6e182300
-      data:
-        first: 33
-        second: ae5a3200
-    Coin60:
-      data:
-        first: 1
-        second: ae860100
-      data:
-        first: 4
-        second: 8e1a0600
-      data:
-        first: 23
-        second: 6c182300
-      data:
-        first: 33
-        second: ac5a3200
-    Coin61:
-      data:
-        first: 1
-        second: ac860100
-      data:
-        first: 4
-        second: 8c1a0600
-      data:
-        first: 23
-        second: 6a182300
-      data:
-        first: 33
-        second: aa5a3200
-    Coin64:
-      data:
-        first: 1
-        second: 80880100
-      data:
-        first: 4
-        second: 601c0600
-      data:
-        first: 23
-        second: fc192300
-      data:
-        first: 33
-        second: 3c5c3200
-    Coin67:
-      data:
-        first: 1
-        second: 7e880100
-      data:
-        first: 4
-        second: 5e1c0600
-      data:
-        first: 23
-        second: fa192300
-      data:
-        first: 33
-        second: 3a5c3200
-    Coin68:
-      data:
-        first: 1
-        second: 9e880100
-      data:
-        first: 4
-        second: 7e1c0600
-      data:
-        first: 23
-        second: 161a2300
-      data:
-        first: 33
-        second: 565c3200
-    Coin69:
-      data:
-        first: 1
-        second: 9c880100
-      data:
-        first: 4
-        second: 7c1c0600
-      data:
-        first: 23
-        second: 141a2300
-      data:
-        first: 33
-        second: 545c3200
-    Coin70:
-      data:
-        first: 1
-        second: 9a880100
-      data:
-        first: 4
-        second: 7a1c0600
-      data:
-        first: 23
-        second: 121a2300
-      data:
-        first: 33
-        second: 525c3200
-    Coin71:
-      data:
-        first: 1
-        second: 98880100
-      data:
-        first: 4
-        second: 781c0600
-      data:
-        first: 23
-        second: 101a2300
-      data:
-        first: 33
-        second: 505c3200
-    Coin72:
-      data:
-        first: 1
-        second: 96880100
-      data:
-        first: 4
-        second: 761c0600
-      data:
-        first: 23
-        second: 0e1a2300
-      data:
-        first: 33
-        second: 4e5c3200
-    Coin73:
-      data:
-        first: 1
-        second: 94880100
-      data:
-        first: 4
-        second: 741c0600
-      data:
-        first: 23
-        second: 0c1a2300
-      data:
-        first: 33
-        second: 4c5c3200
-    Coin74:
-      data:
-        first: 1
-        second: bc880100
-      data:
-        first: 4
-        second: 9c1c0600
-      data:
-        first: 23
-        second: 301a2300
-      data:
-        first: 33
-        second: 705c3200
-    Coin75:
-      data:
-        first: 1
-        second: ba880100
-      data:
-        first: 4
-        second: 9a1c0600
-      data:
-        first: 23
-        second: 2e1a2300
-      data:
-        first: 33
-        second: 6e5c3200
-    Coin76:
-      data:
-        first: 1
-        second: b8880100
-      data:
-        first: 4
-        second: 981c0600
-      data:
-        first: 23
-        second: 2c1a2300
-      data:
-        first: 33
-        second: 6c5c3200
-    Coin77:
-      data:
-        first: 1
-        second: b6880100
-      data:
-        first: 4
-        second: 961c0600
-      data:
-        first: 23
-        second: 2a1a2300
-      data:
-        first: 33
-        second: 6a5c3200
-    Coin78:
-      data:
-        first: 1
-        second: b4880100
-      data:
-        first: 4
-        second: 941c0600
-      data:
-        first: 23
-        second: 281a2300
-      data:
-        first: 33
-        second: 685c3200
-    Coin79:
-      data:
-        first: 1
-        second: b2880100
-      data:
-        first: 4
-        second: 921c0600
-      data:
-        first: 23
-        second: 261a2300
-      data:
-        first: 33
-        second: 665c3200
-    Coin80:
-      data:
-        first: 1
-        second: 36870100
-      data:
-        first: 4
-        second: 161b0600
-      data:
-        first: 23
-        second: e6182300
-      data:
-        first: 33
-        second: 265b3200
-    Coin81:
-      data:
-        first: 1
-        second: 34870100
-      data:
-        first: 4
-        second: 141b0600
-      data:
-        first: 23
-        second: e4182300
-      data:
-        first: 33
-        second: 245b3200
-    Coin82:
-      data:
-        first: 1
-        second: 32870100
-      data:
-        first: 4
-        second: 121b0600
-      data:
-        first: 23
-        second: e2182300
-      data:
-        first: 33
-        second: 225b3200
-    Coin83:
-      data:
-        first: 1
-        second: 30870100
-      data:
-        first: 4
-        second: 101b0600
-      data:
-        first: 23
-        second: e0182300
-      data:
-        first: 33
-        second: 205b3200
-    Coin84:
-      data:
-        first: 1
-        second: 2e870100
-      data:
-        first: 4
-        second: 0e1b0600
-      data:
-        first: 23
-        second: de182300
-      data:
-        first: 33
-        second: 1e5b3200
-    Coin85:
-      data:
-        first: 1
-        second: 2c870100
-      data:
-        first: 4
-        second: 0c1b0600
-      data:
-        first: 23
-        second: dc182300
-      data:
-        first: 33
-        second: 1c5b3200
-    Group25:
-      data:
-        first: 1
-        second: 62870100
-      data:
-        first: 4
-        second: 421b0600
-    Group26:
-      data:
-        first: 1
-        second: 18890100
-      data:
-        first: 4
-        second: f81c0600
-    Group27:
-      data:
-        first: 1
-        second: 98870100
-      data:
-        first: 4
-        second: 781b0600
-    Group28:
-      data:
-        first: 1
-        second: 0a890100
-      data:
-        first: 4
-        second: ea1c0600
-    Group29:
-      data:
-        first: 1
-        second: 02890100
-      data:
-        first: 4
-        second: e21c0600
-    Group30:
-      data:
-        first: 1
-        second: fa880100
-      data:
-        first: 4
-        second: da1c0600
-    Group31:
-      data:
-        first: 1
-        second: f2880100
-      data:
-        first: 4
-        second: d21c0600
-    Group32:
-      data:
-        first: 1
-        second: ea880100
-      data:
-        first: 4
-        second: ca1c0600
-    Group33:
-      data:
-        first: 1
-        second: e2880100
-      data:
-        first: 4
-        second: c21c0600
-    Group34:
-      data:
-        first: 1
-        second: da880100
-      data:
-        first: 4
-        second: ba1c0600
-    Group35:
-      data:
-        first: 1
-        second: d2880100
-      data:
-        first: 4
-        second: b21c0600
-    Group36:
-      data:
-        first: 1
-        second: ca880100
-      data:
-        first: 4
-        second: aa1c0600
-    Group37:
-      data:
-        first: 1
-        second: c2880100
-      data:
-        first: 4
-        second: a21c0600
-    Group38:
-      data:
-        first: 1
-        second: ee870100
-      data:
-        first: 4
-        second: ce1b0600
-    Group39:
-      data:
-        first: 1
-        second: 74880100
-      data:
-        first: 4
-        second: 541c0600
-    Group40:
-      data:
-        first: 1
-        second: 8a870100
-      data:
-        first: 4
-        second: 6a1b0600
-    Group41:
-      data:
-        first: 1
-        second: fa860100
-      data:
-        first: 4
-        second: da1a0600
-    Group42:
-      data:
-        first: 1
-        second: f2860100
-      data:
-        first: 4
-        second: d21a0600
-    Group43:
-      data:
-        first: 1
-        second: ea860100
-      data:
-        first: 4
-        second: ca1a0600
-    Group44:
-      data:
-        first: 1
-        second: 06880100
-      data:
-        first: 4
-        second: e61b0600
-    Group45:
-      data:
-        first: 1
-        second: 7c870100
-      data:
-        first: 4
-        second: 5c1b0600
-    Group46:
-      data:
-        first: 1
-        second: d8870100
-      data:
-        first: 4
-        second: b81b0600
-    Group47:
-      data:
-        first: 1
-        second: 3a880100
-      data:
-        first: 4
-        second: 1a1c0600
-    Group48:
-      data:
-        first: 1
-        second: 74870100
-      data:
-        first: 4
-        second: 541b0600
-    Group49:
-      data:
-        first: 1
-        second: fe870100
-      data:
-        first: 4
-        second: de1b0600
-    Group50:
-      data:
-        first: 1
-        second: f6870100
-      data:
-        first: 4
-        second: d61b0600
-    Group51:
-      data:
-        first: 1
-        second: 02870100
-      data:
-        first: 4
-        second: e21a0600
-    Group52:
-      data:
-        first: 1
-        second: 0a870100
-      data:
-        first: 4
-        second: ea1a0600
-    Group53:
-      data:
-        first: 1
-        second: ac870100
-      data:
-        first: 4
-        second: 8c1b0600
-    Group54:
-      data:
-        first: 1
-        second: c0870100
-      data:
-        first: 4
-        second: a01b0600
-    Group55:
-      data:
-        first: 1
-        second: e6870100
-      data:
-        first: 4
-        second: c61b0600
-    Group56:
-      data:
-        first: 1
-        second: b0880100
-      data:
-        first: 4
-        second: 901c0600
-    Group57:
-      data:
-        first: 1
-        second: 46870100
-      data:
-        first: 4
-        second: 261b0600
-    Group58:
-      data:
-        first: 1
-        second: e0860100
-      data:
-        first: 4
-        second: c01a0600
-    Group59:
-      data:
-        first: 1
-        second: d2860100
-      data:
-        first: 4
-        second: b21a0600
-    Group60:
-      data:
-        first: 1
-        second: 54870100
-      data:
-        first: 4
-        second: 341b0600
-    Group61:
-      data:
-        first: 1
-        second: aa860100
-      data:
-        first: 4
-        second: 8a1a0600
-    Group62:
-      data:
-        first: 1
-        second: 1e880100
-      data:
-        first: 4
-        second: fe1b0600
-    Group63:
-      data:
-        first: 1
-        second: 10880100
-      data:
-        first: 4
-        second: f01b0600
-    Group64:
-      data:
-        first: 1
-        second: 92880100
-      data:
-        first: 4
-        second: 721c0600
-    Group65:
-      data:
-        first: 1
-        second: 82880100
-      data:
-        first: 4
-        second: 621c0600
-    Group66:
-      data:
-        first: 1
-        second: a0880100
-      data:
-        first: 4
-        second: 801c0600
-    Group67:
-      data:
-        first: 1
-        second: be880100
-      data:
-        first: 4
-        second: 9e1c0600
-    Group68:
-      data:
-        first: 1
-        second: 38870100
-      data:
-        first: 4
-        second: 181b0600
-    Line17:
-      data:
-        first: 1
-        second: ae870100
-      data:
-        first: 4
-        second: 8e1b0600
-      data:
-        first: 23
-        second: 4a192300
-      data:
-        first: 33
-        second: 8a5b3200
-    Line25:
-      data:
-        first: 1
-        second: 58880100
-      data:
-        first: 4
-        second: 381c0600
-      data:
-        first: 23
-        second: d8192300
-      data:
-        first: 33
-        second: 185c3200
-    Rectangl10:
-      data:
-        first: 1
-        second: 0c890100
-      data:
-        first: 4
-        second: ec1c0600
-      data:
-        first: 23
-        second: 6a1a2300
-      data:
-        first: 33
-        second: aa5c3200
-    Rectangl11:
-      data:
-        first: 1
-        second: 04890100
-      data:
-        first: 4
-        second: e41c0600
-      data:
-        first: 23
-        second: 641a2300
-      data:
-        first: 33
-        second: a45c3200
-    Rectangl12:
-      data:
-        first: 1
-        second: 00890100
-      data:
-        first: 4
-        second: e01c0600
-      data:
-        first: 23
-        second: 621a2300
-      data:
-        first: 33
-        second: a25c3200
-    Rectangl13:
-      data:
-        first: 1
-        second: f8880100
-      data:
-        first: 4
-        second: d81c0600
-      data:
-        first: 23
-        second: 5c1a2300
-      data:
-        first: 33
-        second: 9c5c3200
-    Rectangl14:
-      data:
-        first: 1
-        second: f0880100
-      data:
-        first: 4
-        second: d01c0600
-      data:
-        first: 23
-        second: 561a2300
-      data:
-        first: 33
-        second: 965c3200
-    Rectangl15:
-      data:
-        first: 1
-        second: e8880100
-      data:
-        first: 4
-        second: c81c0600
-      data:
-        first: 23
-        second: 501a2300
-      data:
-        first: 33
-        second: 905c3200
-    Rectangl16:
-      data:
-        first: 1
-        second: e0880100
-      data:
-        first: 4
-        second: c01c0600
-      data:
-        first: 23
-        second: 4a1a2300
-      data:
-        first: 33
-        second: 8a5c3200
-    Rectangl17:
-      data:
-        first: 1
-        second: d8880100
-      data:
-        first: 4
-        second: b81c0600
-      data:
-        first: 23
-        second: 441a2300
-      data:
-        first: 33
-        second: 845c3200
-    Rectangl18:
-      data:
-        first: 1
-        second: d0880100
-      data:
-        first: 4
-        second: b01c0600
-      data:
-        first: 23
-        second: 3e1a2300
-      data:
-        first: 33
-        second: 7e5c3200
-    Rectangl19:
-      data:
-        first: 1
-        second: c8880100
-      data:
-        first: 4
-        second: a81c0600
-      data:
-        first: 23
-        second: 381a2300
-      data:
-        first: 33
-        second: 785c3200
-    Rectangl20:
-      data:
-        first: 1
-        second: c0880100
-      data:
-        first: 4
-        second: a01c0600
-      data:
-        first: 23
-        second: 321a2300
-      data:
-        first: 33
-        second: 725c3200
-    Rectangl21:
-      data:
-        first: 1
-        second: 08870100
-      data:
-        first: 4
-        second: e81a0600
-      data:
-        first: 23
-        second: ba182300
-      data:
-        first: 33
-        second: fa5a3200
-    Rectangl22:
-      data:
-        first: 1
-        second: 00870100
-      data:
-        first: 4
-        second: e01a0600
-      data:
-        first: 23
-        second: b4182300
-      data:
-        first: 33
-        second: f45a3200
-    Rectangl23:
-      data:
-        first: 1
-        second: f8860100
-      data:
-        first: 4
-        second: d81a0600
-      data:
-        first: 23
-        second: ae182300
-      data:
-        first: 33
-        second: ee5a3200
-    Rectangl24:
-      data:
-        first: 1
-        second: f0860100
-      data:
-        first: 4
-        second: d01a0600
-      data:
-        first: 23
-        second: a8182300
-      data:
-        first: 33
-        second: e85a3200
-    Rectangl25:
-      data:
-        first: 1
-        second: e8860100
-      data:
-        first: 4
-        second: c81a0600
-      data:
-        first: 23
-        second: a2182300
-      data:
-        first: 33
-        second: e25a3200
-    Rectangl26:
-      data:
-        first: 1
-        second: 04880100
-      data:
-        first: 4
-        second: e41b0600
-      data:
-        first: 23
-        second: 94192300
-      data:
-        first: 33
-        second: d45b3200
-    Rectangl27:
-      data:
-        first: 1
-        second: fc870100
-      data:
-        first: 4
-        second: dc1b0600
-      data:
-        first: 23
-        second: 8e192300
-      data:
-        first: 33
-        second: ce5b3200
-    Rectangl28:
-      data:
-        first: 1
-        second: f4870100
-      data:
-        first: 4
-        second: d41b0600
-      data:
-        first: 23
-        second: 88192300
-      data:
-        first: 33
-        second: c85b3200
-    Rectangl29:
-      data:
-        first: 1
-        second: ec870100
-      data:
-        first: 4
-        second: cc1b0600
-      data:
-        first: 23
-        second: 82192300
-      data:
-        first: 33
-        second: c25b3200
-    Rectangl30:
-      data:
-        first: 1
-        second: 72880100
-      data:
-        first: 4
-        second: 521c0600
-      data:
-        first: 23
-        second: f0192300
-      data:
-        first: 33
-        second: 305c3200
-    Rectangl31:
-      data:
-        first: 1
-        second: 66880100
-      data:
-        first: 4
-        second: 461c0600
-      data:
-        first: 23
-        second: e4192300
-      data:
-        first: 33
-        second: 245c3200
-    Rectangl32:
-      data:
-        first: 1
-        second: 64880100
-      data:
-        first: 4
-        second: 441c0600
-      data:
-        first: 23
-        second: e2192300
-      data:
-        first: 33
-        second: 225c3200
-    Rectangl33:
-      data:
-        first: 1
-        second: 62880100
-      data:
-        first: 4
-        second: 421c0600
-      data:
-        first: 23
-        second: e0192300
-      data:
-        first: 33
-        second: 205c3200
-    Rectangle0:
-      data:
-        first: 1
-        second: 78870100
-      data:
-        first: 4
-        second: 581b0600
-      data:
-        first: 23
-        second: 1c192300
-      data:
-        first: 33
-        second: 5c5b3200
-    Rectangle1:
-      data:
-        first: 1
-        second: 72870100
-      data:
-        first: 4
-        second: 521b0600
-      data:
-        first: 23
-        second: 18192300
-      data:
-        first: 33
-        second: 585b3200
-    Rectangle2:
-      data:
-        first: 1
-        second: 6a870100
-      data:
-        first: 4
-        second: 4a1b0600
-      data:
-        first: 23
-        second: 12192300
-      data:
-        first: 33
-        second: 525b3200
-    Rectangle3:
-      data:
-        first: 1
-        second: 8c870100
-      data:
-        first: 4
-        second: 6c1b0600
-      data:
-        first: 23
-        second: 2c192300
-      data:
-        first: 33
-        second: 6c5b3200
-    Rectangle4:
-      data:
-        first: 1
-        second: 88870100
-      data:
-        first: 4
-        second: 681b0600
-      data:
-        first: 23
-        second: 2a192300
-      data:
-        first: 33
-        second: 6a5b3200
-    Rectangle5:
-      data:
-        first: 1
-        second: b0870100
-      data:
-        first: 4
-        second: 901b0600
-      data:
-        first: 23
-        second: 4c192300
-      data:
-        first: 33
-        second: 8c5b3200
-    Rectangle6:
-      data:
-        first: 1
-        second: 68870100
-      data:
-        first: 4
-        second: 481b0600
-      data:
-        first: 23
-        second: 10192300
-      data:
-        first: 33
-        second: 505b3200
-    Rectangle7:
-      data:
-        first: 1
-        second: 66870100
-      data:
-        first: 4
-        second: 461b0600
-      data:
-        first: 23
-        second: 0e192300
-      data:
-        first: 33
-        second: 4e5b3200
-    Rectangle8:
-      data:
-        first: 1
-        second: 64870100
-      data:
-        first: 4
-        second: 441b0600
-      data:
-        first: 23
-        second: 0c192300
-      data:
-        first: 33
-        second: 4c5b3200
-    Rectangle9:
-      data:
-        first: 1
-        second: 1a890100
-      data:
-        first: 4
-        second: fa1c0600
-      data:
-        first: 23
-        second: 761a2300
-      data:
-        first: 33
-        second: b65c3200
-    Sphere100:
-      data:
-        first: 1
-        second: 6c880100
-      data:
-        first: 4
-        second: 4c1c0600
-      data:
-        first: 23
-        second: ea192300
-      data:
-        first: 33
-        second: 2a5c3200
-    Sphere101:
-      data:
-        first: 1
-        second: 6a880100
-      data:
-        first: 4
-        second: 4a1c0600
-      data:
-        first: 23
-        second: e8192300
-      data:
-        first: 33
-        second: 285c3200
-    Sphere102:
-      data:
-        first: 1
-        second: 68880100
-      data:
-        first: 4
-        second: 481c0600
-      data:
-        first: 23
-        second: e6192300
-      data:
-        first: 33
-        second: 265c3200
-    Sphere103:
-      data:
-        first: 1
-        second: 86870100
-      data:
-        first: 4
-        second: 661b0600
-      data:
-        first: 23
-        second: 28192300
-      data:
-        first: 33
-        second: 685b3200
-    Sphere104:
-      data:
-        first: 1
-        second: 84870100
-      data:
-        first: 4
-        second: 641b0600
-      data:
-        first: 23
-        second: 26192300
-      data:
-        first: 33
-        second: 665b3200
-    Sphere105:
-      data:
-        first: 1
-        second: 82870100
-      data:
-        first: 4
-        second: 621b0600
-      data:
-        first: 23
-        second: 24192300
-      data:
-        first: 33
-        second: 645b3200
-    Sphere106:
-      data:
-        first: 1
-        second: 80870100
-      data:
-        first: 4
-        second: 601b0600
-      data:
-        first: 23
-        second: 22192300
-      data:
-        first: 33
-        second: 625b3200
-    Sphere107:
-      data:
-        first: 1
-        second: 7e870100
-      data:
-        first: 4
-        second: 5e1b0600
-      data:
-        first: 23
-        second: 20192300
-      data:
-        first: 33
-        second: 605b3200
-    Sphere108:
-      data:
-        first: 1
-        second: f6860100
-      data:
-        first: 4
-        second: d61a0600
-      data:
-        first: 23
-        second: ac182300
-      data:
-        first: 33
-        second: ec5a3200
-    Sphere112:
-      data:
-        first: 1
-        second: f4860100
-      data:
-        first: 4
-        second: d41a0600
-      data:
-        first: 23
-        second: aa182300
-      data:
-        first: 33
-        second: ea5a3200
-    Sphere113:
-      data:
-        first: 1
-        second: ee860100
-      data:
-        first: 4
-        second: ce1a0600
-      data:
-        first: 23
-        second: a6182300
-      data:
-        first: 33
-        second: e65a3200
-    Sphere114:
-      data:
-        first: 1
-        second: ec860100
-      data:
-        first: 4
-        second: cc1a0600
-      data:
-        first: 23
-        second: a4182300
-      data:
-        first: 33
-        second: e45a3200
-    Sphere115:
-      data:
-        first: 1
-        second: 0a880100
-      data:
-        first: 4
-        second: ea1b0600
-      data:
-        first: 23
-        second: 98192300
-      data:
-        first: 33
-        second: d85b3200
-    Sphere116:
-      data:
-        first: 1
-        second: 08880100
-      data:
-        first: 4
-        second: e81b0600
-      data:
-        first: 23
-        second: 96192300
-      data:
-        first: 33
-        second: d65b3200
-    Sphere117:
-      data:
-        first: 1
-        second: 02880100
-      data:
-        first: 4
-        second: e21b0600
-      data:
-        first: 23
-        second: 92192300
-      data:
-        first: 33
-        second: d25b3200
-    Sphere118:
-      data:
-        first: 1
-        second: 00880100
-      data:
-        first: 4
-        second: e01b0600
-      data:
-        first: 23
-        second: 90192300
-      data:
-        first: 33
-        second: d05b3200
-    Sphere119:
-      data:
-        first: 1
-        second: 7a870100
-      data:
-        first: 4
-        second: 5a1b0600
-      data:
-        first: 23
-        second: 1e192300
-      data:
-        first: 33
-        second: 5e5b3200
-    Sphere120:
-      data:
-        first: 1
-        second: 76870100
-      data:
-        first: 4
-        second: 561b0600
-      data:
-        first: 23
-        second: 1a192300
-      data:
-        first: 33
-        second: 5a5b3200
-    Sphere121:
-      data:
-        first: 1
-        second: d2870100
-      data:
-        first: 4
-        second: b21b0600
-      data:
-        first: 23
-        second: 6c192300
-      data:
-        first: 33
-        second: ac5b3200
-    Sphere122:
-      data:
-        first: 1
-        second: d0870100
-      data:
-        first: 4
-        second: b01b0600
-      data:
-        first: 23
-        second: 6a192300
-      data:
-        first: 33
-        second: aa5b3200
-    Sphere123:
-      data:
-        first: 1
-        second: ce870100
-      data:
-        first: 4
-        second: ae1b0600
-      data:
-        first: 23
-        second: 68192300
-      data:
-        first: 33
-        second: a85b3200
-    Sphere124:
-      data:
-        first: 1
-        second: d6870100
-      data:
-        first: 4
-        second: b61b0600
-      data:
-        first: 23
-        second: 70192300
-      data:
-        first: 33
-        second: b05b3200
-    Sphere125:
-      data:
-        first: 1
-        second: d4870100
-      data:
-        first: 4
-        second: b41b0600
-      data:
-        first: 23
-        second: 6e192300
-      data:
-        first: 33
-        second: ae5b3200
-    Sphere126:
-      data:
-        first: 1
-        second: ca870100
-      data:
-        first: 4
-        second: aa1b0600
-      data:
-        first: 23
-        second: 64192300
-      data:
-        first: 33
-        second: a45b3200
-    Sphere129:
-      data:
-        first: 1
-        second: c8870100
-      data:
-        first: 4
-        second: a81b0600
-      data:
-        first: 23
-        second: 62192300
-      data:
-        first: 33
-        second: a25b3200
-    Sphere130:
-      data:
-        first: 1
-        second: c6870100
-      data:
-        first: 4
-        second: a61b0600
-      data:
-        first: 23
-        second: 60192300
-      data:
-        first: 33
-        second: a05b3200
-    Sphere131:
-      data:
-        first: 1
-        second: c4870100
-      data:
-        first: 4
-        second: a41b0600
-      data:
-        first: 23
-        second: 5e192300
-      data:
-        first: 33
-        second: 9e5b3200
-    Sphere132:
-      data:
-        first: 1
-        second: c2870100
-      data:
-        first: 4
-        second: a21b0600
-      data:
-        first: 23
-        second: 5c192300
-      data:
-        first: 33
-        second: 9c5b3200
-    Sphere133:
-      data:
-        first: 1
-        second: 38880100
-      data:
-        first: 4
-        second: 181c0600
-      data:
-        first: 23
-        second: c0192300
-      data:
-        first: 33
-        second: 005c3200
-    Sphere134:
-      data:
-        first: 1
-        second: 36880100
-      data:
-        first: 4
-        second: 161c0600
-      data:
-        first: 23
-        second: be192300
-      data:
-        first: 33
-        second: fe5b3200
-    Sphere135:
-      data:
-        first: 1
-        second: 34880100
-      data:
-        first: 4
-        second: 141c0600
-      data:
-        first: 23
-        second: bc192300
-      data:
-        first: 33
-        second: fc5b3200
-    Sphere136:
-      data:
-        first: 1
-        second: 32880100
-      data:
-        first: 4
-        second: 121c0600
-      data:
-        first: 23
-        second: ba192300
-      data:
-        first: 33
-        second: fa5b3200
-    Sphere137:
-      data:
-        first: 1
-        second: 30880100
-      data:
-        first: 4
-        second: 101c0600
-      data:
-        first: 23
-        second: b8192300
-      data:
-        first: 33
-        second: f85b3200
-    Sphere138:
-      data:
-        first: 1
-        second: 2e880100
-      data:
-        first: 4
-        second: 0e1c0600
-      data:
-        first: 23
-        second: b6192300
-      data:
-        first: 33
-        second: f65b3200
-    Sphere139:
-      data:
-        first: 1
-        second: 2c880100
-      data:
-        first: 4
-        second: 0c1c0600
-      data:
-        first: 23
-        second: b4192300
-      data:
-        first: 33
-        second: f45b3200
-    Sphere140:
-      data:
-        first: 1
-        second: 28880100
-      data:
-        first: 4
-        second: 081c0600
-      data:
-        first: 23
-        second: b0192300
-      data:
-        first: 33
-        second: f05b3200
-    Sphere141:
-      data:
-        first: 1
-        second: 26880100
-      data:
-        first: 4
-        second: 061c0600
-      data:
-        first: 23
-        second: ae192300
-      data:
-        first: 33
-        second: ee5b3200
-    Sphere142:
-      data:
-        first: 1
-        second: e8870100
-      data:
-        first: 4
-        second: c81b0600
-      data:
-        first: 23
-        second: 7e192300
-      data:
-        first: 33
-        second: be5b3200
-    Sphere143:
-      data:
-        first: 1
-        second: 70870100
-      data:
-        first: 4
-        second: 501b0600
-      data:
-        first: 23
-        second: 16192300
-      data:
-        first: 33
-        second: 565b3200
-    Sphere144:
-      data:
-        first: 1
-        second: 6e870100
-      data:
-        first: 4
-        second: 4e1b0600
-      data:
-        first: 23
-        second: 14192300
-      data:
-        first: 33
-        second: 545b3200
-    Sphere145:
-      data:
-        first: 1
-        second: fa870100
-      data:
-        first: 4
-        second: da1b0600
-      data:
-        first: 23
-        second: 8c192300
-      data:
-        first: 33
-        second: cc5b3200
-    Sphere146:
-      data:
-        first: 1
-        second: f8870100
-      data:
-        first: 4
-        second: d81b0600
-      data:
-        first: 23
-        second: 8a192300
-      data:
-        first: 33
-        second: ca5b3200
-    Sphere147:
-      data:
-        first: 1
-        second: f2870100
-      data:
-        first: 4
-        second: d21b0600
-      data:
-        first: 23
-        second: 86192300
-      data:
-        first: 33
-        second: c65b3200
-    Sphere148:
-      data:
-        first: 1
-        second: f0870100
-      data:
-        first: 4
-        second: d01b0600
-      data:
-        first: 23
-        second: 84192300
-      data:
-        first: 33
-        second: c45b3200
-    Sphere149:
-      data:
-        first: 1
-        second: fe860100
-      data:
-        first: 4
-        second: de1a0600
-      data:
-        first: 23
-        second: b2182300
-      data:
-        first: 33
-        second: f25a3200
-    Sphere150:
-      data:
-        first: 1
-        second: fc860100
-      data:
-        first: 4
-        second: dc1a0600
-      data:
-        first: 23
-        second: b0182300
-      data:
-        first: 33
-        second: f05a3200
-    Sphere151:
-      data:
-        first: 1
-        second: 06870100
-      data:
-        first: 4
-        second: e61a0600
-      data:
-        first: 23
-        second: b8182300
-      data:
-        first: 33
-        second: f85a3200
-    Sphere152:
-      data:
-        first: 1
-        second: 04870100
-      data:
-        first: 4
-        second: e41a0600
-      data:
-        first: 23
-        second: b6182300
-      data:
-        first: 33
-        second: f65a3200
-    Sphere158:
-      data:
-        first: 1
-        second: a8870100
-      data:
-        first: 4
-        second: 881b0600
-      data:
-        first: 23
-        second: 46192300
-      data:
-        first: 33
-        second: 865b3200
-    Sphere159:
-      data:
-        first: 1
-        second: a6870100
-      data:
-        first: 4
-        second: 861b0600
-      data:
-        first: 23
-        second: 44192300
-      data:
-        first: 33
-        second: 845b3200
-    Sphere160:
-      data:
-        first: 1
-        second: a4870100
-      data:
-        first: 4
-        second: 841b0600
-      data:
-        first: 23
-        second: 42192300
-      data:
-        first: 33
-        second: 825b3200
-    Sphere161:
-      data:
-        first: 1
-        second: a2870100
-      data:
-        first: 4
-        second: 821b0600
-      data:
-        first: 23
-        second: 40192300
-      data:
-        first: 33
-        second: 805b3200
-    Sphere162:
-      data:
-        first: 1
-        second: a0870100
-      data:
-        first: 4
-        second: 801b0600
-      data:
-        first: 23
-        second: 3e192300
-      data:
-        first: 33
-        second: 7e5b3200
-    Sphere163:
-      data:
-        first: 1
-        second: be870100
-      data:
-        first: 4
-        second: 9e1b0600
-      data:
-        first: 23
-        second: 5a192300
-      data:
-        first: 33
-        second: 9a5b3200
-    Sphere164:
-      data:
-        first: 1
-        second: ba870100
-      data:
-        first: 4
-        second: 9a1b0600
-      data:
-        first: 23
-        second: 56192300
-      data:
-        first: 33
-        second: 965b3200
-    Sphere165:
-      data:
-        first: 1
-        second: b8870100
-      data:
-        first: 4
-        second: 981b0600
-      data:
-        first: 23
-        second: 54192300
-      data:
-        first: 33
-        second: 945b3200
-    Sphere166:
-      data:
-        first: 1
-        second: b6870100
-      data:
-        first: 4
-        second: 961b0600
-      data:
-        first: 23
-        second: 52192300
-      data:
-        first: 33
-        second: 925b3200
-    Sphere167:
-      data:
-        first: 1
-        second: b4870100
-      data:
-        first: 4
-        second: 941b0600
-      data:
-        first: 23
-        second: 50192300
-      data:
-        first: 33
-        second: 905b3200
-    Sphere168:
-      data:
-        first: 1
-        second: e4870100
-      data:
-        first: 4
-        second: c41b0600
-      data:
-        first: 23
-        second: 7c192300
-      data:
-        first: 33
-        second: bc5b3200
-    Sphere169:
-      data:
-        first: 1
-        second: e0870100
-      data:
-        first: 4
-        second: c01b0600
-      data:
-        first: 23
-        second: 78192300
-      data:
-        first: 33
-        second: b85b3200
-    Sphere170:
-      data:
-        first: 1
-        second: de870100
-      data:
-        first: 4
-        second: be1b0600
-      data:
-        first: 23
-        second: 76192300
-      data:
-        first: 33
-        second: b65b3200
-    Sphere171:
-      data:
-        first: 1
-        second: dc870100
-      data:
-        first: 4
-        second: bc1b0600
-      data:
-        first: 23
-        second: 74192300
-      data:
-        first: 33
-        second: b45b3200
-    Sphere172:
-      data:
-        first: 1
-        second: da870100
-      data:
-        first: 4
-        second: ba1b0600
-      data:
-        first: 23
-        second: 72192300
-      data:
-        first: 33
-        second: b25b3200
-    Sphere173:
-      data:
-        first: 1
-        second: b2870100
-      data:
-        first: 4
-        second: 921b0600
-      data:
-        first: 23
-        second: 4e192300
-      data:
-        first: 33
-        second: 8e5b3200
-    Sphere174:
-      data:
-        first: 1
-        second: 5a880100
-      data:
-        first: 4
-        second: 3a1c0600
-      data:
-        first: 23
-        second: da192300
-      data:
-        first: 33
-        second: 1a5c3200
-    Sphere175:
-      data:
-        first: 1
-        second: 5c880100
-      data:
-        first: 4
-        second: 3c1c0600
-      data:
-        first: 23
-        second: dc192300
-      data:
-        first: 33
-        second: 1c5c3200
-    Sphere176:
-      data:
-        first: 1
-        second: b6860100
-      data:
-        first: 4
-        second: 961a0600
-      data:
-        first: 23
-        second: 74182300
-      data:
-        first: 33
-        second: b45a3200
-    Sphere177:
-      data:
-        first: 1
-        second: b8860100
-      data:
-        first: 4
-        second: 981a0600
-      data:
-        first: 23
-        second: 76182300
-      data:
-        first: 33
-        second: b65a3200
-    Sphere178:
-      data:
-        first: 1
-        second: ba860100
-      data:
-        first: 4
-        second: 9a1a0600
-      data:
-        first: 23
-        second: 78182300
-      data:
-        first: 33
-        second: b85a3200
-    Sphere179:
-      data:
-        first: 1
-        second: 56880100
-      data:
-        first: 4
-        second: 361c0600
-      data:
-        first: 23
-        second: d6192300
-      data:
-        first: 33
-        second: 165c3200
-    Sphere180:
-      data:
-        first: 1
-        second: 54880100
-      data:
-        first: 4
-        second: 341c0600
-      data:
-        first: 23
-        second: d4192300
-      data:
-        first: 33
-        second: 145c3200
-    Sphere181:
-      data:
-        first: 1
-        second: 52880100
-      data:
-        first: 4
-        second: 321c0600
-      data:
-        first: 23
-        second: d2192300
-      data:
-        first: 33
-        second: 125c3200
-    Sphere182:
-      data:
-        first: 1
-        second: 50880100
-      data:
-        first: 4
-        second: 301c0600
-      data:
-        first: 23
-        second: d0192300
-      data:
-        first: 33
-        second: 105c3200
-    Sphere183:
-      data:
-        first: 1
-        second: 4e880100
-      data:
-        first: 4
-        second: 2e1c0600
-      data:
-        first: 23
-        second: ce192300
-      data:
-        first: 33
-        second: 0e5c3200
-    Sphere184:
-      data:
-        first: 1
-        second: be860100
-      data:
-        first: 4
-        second: 9e1a0600
-      data:
-        first: 23
-        second: 7c182300
-      data:
-        first: 33
-        second: bc5a3200
-    Sphere185:
-      data:
-        first: 1
-        second: c0860100
-      data:
-        first: 4
-        second: a01a0600
-      data:
-        first: 23
-        second: 7e182300
-      data:
-        first: 33
-        second: be5a3200
-    Sphere186:
-      data:
-        first: 1
-        second: c2860100
-      data:
-        first: 4
-        second: a21a0600
-      data:
-        first: 23
-        second: 80182300
-      data:
-        first: 33
-        second: c05a3200
-    Sphere187:
-      data:
-        first: 1
-        second: 4c880100
-      data:
-        first: 4
-        second: 2c1c0600
-      data:
-        first: 23
-        second: cc192300
-      data:
-        first: 33
-        second: 0c5c3200
-    Sphere188:
-      data:
-        first: 1
-        second: 4a880100
-      data:
-        first: 4
-        second: 2a1c0600
-      data:
-        first: 23
-        second: ca192300
-      data:
-        first: 33
-        second: 0a5c3200
-    Sphere189:
-      data:
-        first: 1
-        second: 48880100
-      data:
-        first: 4
-        second: 281c0600
-      data:
-        first: 23
-        second: c8192300
-      data:
-        first: 33
-        second: 085c3200
-    Sphere190:
-      data:
-        first: 1
-        second: 46880100
-      data:
-        first: 4
-        second: 261c0600
-      data:
-        first: 23
-        second: c6192300
-      data:
-        first: 33
-        second: 065c3200
-    Sphere191:
-      data:
-        first: 1
-        second: 44880100
-      data:
-        first: 4
-        second: 241c0600
-      data:
-        first: 23
-        second: c4192300
-      data:
-        first: 33
-        second: 045c3200
-    Sphere192:
-      data:
-        first: 1
-        second: 42880100
-      data:
-        first: 4
-        second: 221c0600
-      data:
-        first: 23
-        second: c2192300
-      data:
-        first: 33
-        second: 025c3200
-    Sphere193:
-      data:
-        first: 1
-        second: c4860100
-      data:
-        first: 4
-        second: a41a0600
-      data:
-        first: 23
-        second: 82182300
-      data:
-        first: 33
-        second: c25a3200
-    Sphere194:
-      data:
-        first: 1
-        second: c6860100
-      data:
-        first: 4
-        second: a61a0600
-      data:
-        first: 23
-        second: 84182300
-      data:
-        first: 33
-        second: c45a3200
-    Sphere195:
-      data:
-        first: 1
-        second: c8860100
-      data:
-        first: 4
-        second: a81a0600
-      data:
-        first: 23
-        second: 86182300
-      data:
-        first: 33
-        second: c65a3200
-    Sphere196:
-      data:
-        first: 1
-        second: ca860100
-      data:
-        first: 4
-        second: aa1a0600
-      data:
-        first: 23
-        second: 88182300
-      data:
-        first: 33
-        second: c85a3200
-    Sphere197:
-      data:
-        first: 1
-        second: cc860100
-      data:
-        first: 4
-        second: ac1a0600
-      data:
-        first: 23
-        second: 8a182300
-      data:
-        first: 33
-        second: ca5a3200
-    Sphere198:
-      data:
-        first: 1
-        second: ce860100
-      data:
-        first: 4
-        second: ae1a0600
-      data:
-        first: 23
-        second: 8c182300
-      data:
-        first: 33
-        second: cc5a3200
-    Sphere199:
-      data:
-        first: 1
-        second: d0860100
-      data:
-        first: 4
-        second: b01a0600
-      data:
-        first: 23
-        second: 8e182300
-      data:
-        first: 33
-        second: ce5a3200
-    Sphere200:
-      data:
-        first: 1
-        second: 10870100
-      data:
-        first: 4
-        second: f01a0600
-      data:
-        first: 23
-        second: c0182300
-      data:
-        first: 33
-        second: 005b3200
-    Sphere201:
-      data:
-        first: 1
-        second: 12870100
-      data:
-        first: 4
-        second: f21a0600
-      data:
-        first: 23
-        second: c2182300
-      data:
-        first: 33
-        second: 025b3200
-    Sphere202:
-      data:
-        first: 1
-        second: 14870100
-      data:
-        first: 4
-        second: f41a0600
-      data:
-        first: 23
-        second: c4182300
-      data:
-        first: 33
-        second: 045b3200
-    Sphere203:
-      data:
-        first: 1
-        second: 16870100
-      data:
-        first: 4
-        second: f61a0600
-      data:
-        first: 23
-        second: c6182300
-      data:
-        first: 33
-        second: 065b3200
-    Sphere204:
-      data:
-        first: 1
-        second: 18870100
-      data:
-        first: 4
-        second: f81a0600
-      data:
-        first: 23
-        second: c8182300
-      data:
-        first: 33
-        second: 085b3200
-    Sphere205:
-      data:
-        first: 1
-        second: 1a870100
-      data:
-        first: 4
-        second: fa1a0600
-      data:
-        first: 23
-        second: ca182300
-      data:
-        first: 33
-        second: 0a5b3200
-    Sphere206:
-      data:
-        first: 1
-        second: 1c870100
-      data:
-        first: 4
-        second: fc1a0600
-      data:
-        first: 23
-        second: cc182300
-      data:
-        first: 33
-        second: 0c5b3200
-    Sphere207:
-      data:
-        first: 1
-        second: 1e870100
-      data:
-        first: 4
-        second: fe1a0600
-      data:
-        first: 23
-        second: ce182300
-      data:
-        first: 33
-        second: 0e5b3200
-    Sphere208:
-      data:
-        first: 1
-        second: 20870100
-      data:
-        first: 4
-        second: 001b0600
-      data:
-        first: 23
-        second: d0182300
-      data:
-        first: 33
-        second: 105b3200
-    Sphere209:
-      data:
-        first: 1
-        second: 22870100
-      data:
-        first: 4
-        second: 021b0600
-      data:
-        first: 23
-        second: d2182300
-      data:
-        first: 33
-        second: 125b3200
-    Sphere210:
-      data:
-        first: 1
-        second: 24870100
-      data:
-        first: 4
-        second: 041b0600
-      data:
-        first: 23
-        second: d4182300
-      data:
-        first: 33
-        second: 145b3200
-    Sphere211:
-      data:
-        first: 1
-        second: 26870100
-      data:
-        first: 4
-        second: 061b0600
-      data:
-        first: 23
-        second: d6182300
-      data:
-        first: 33
-        second: 165b3200
-    Sphere212:
-      data:
-        first: 1
-        second: 28870100
-      data:
-        first: 4
-        second: 081b0600
-      data:
-        first: 23
-        second: d8182300
-      data:
-        first: 33
-        second: 185b3200
-    Sphere213:
-      data:
-        first: 1
-        second: 2a870100
-      data:
-        first: 4
-        second: 0a1b0600
-      data:
-        first: 23
-        second: da182300
-      data:
-        first: 33
-        second: 1a5b3200
-    Sphere214:
-      data:
-        first: 1
-        second: bc860100
-      data:
-        first: 4
-        second: 9c1a0600
-      data:
-        first: 23
-        second: 7a182300
-      data:
-        first: 33
-        second: ba5a3200
-    Sphere215:
-      data:
-        first: 1
-        second: 5e880100
-      data:
-        first: 4
-        second: 3e1c0600
-      data:
-        first: 23
-        second: de192300
-      data:
-        first: 33
-        second: 1e5c3200
-    Sphere31:
-      data:
-        first: 1
-        second: 58870100
-      data:
-        first: 4
-        second: 381b0600
-      data:
-        first: 23
-        second: 02192300
-      data:
-        first: 33
-        second: 425b3200
-    Sphere59:
-      data:
-        first: 1
-        second: 08890100
-      data:
-        first: 4
-        second: e81c0600
-      data:
-        first: 23
-        second: 681a2300
-      data:
-        first: 33
-        second: a85c3200
-    Sphere60:
-      data:
-        first: 1
-        second: 06890100
-      data:
-        first: 4
-        second: e61c0600
-      data:
-        first: 23
-        second: 661a2300
-      data:
-        first: 33
-        second: a65c3200
-    Sphere61:
-      data:
-        first: 1
-        second: 60870100
-      data:
-        first: 4
-        second: 401b0600
-      data:
-        first: 23
-        second: 0a192300
-      data:
-        first: 33
-        second: 4a5b3200
-    Sphere62:
-      data:
-        first: 1
-        second: 5e870100
-      data:
-        first: 4
-        second: 3e1b0600
-      data:
-        first: 23
-        second: 08192300
-      data:
-        first: 33
-        second: 485b3200
-    Sphere63:
-      data:
-        first: 1
-        second: 5c870100
-      data:
-        first: 4
-        second: 3c1b0600
-      data:
-        first: 23
-        second: 06192300
-      data:
-        first: 33
-        second: 465b3200
-    Sphere64:
-      data:
-        first: 1
-        second: 5a870100
-      data:
-        first: 4
-        second: 3a1b0600
-      data:
-        first: 23
-        second: 04192300
-      data:
-        first: 33
-        second: 445b3200
-    Sphere65:
-      data:
-        first: 1
-        second: 16890100
-      data:
-        first: 4
-        second: f61c0600
-      data:
-        first: 23
-        second: 741a2300
-      data:
-        first: 33
-        second: b45c3200
-    Sphere66:
-      data:
-        first: 1
-        second: 14890100
-      data:
-        first: 4
-        second: f41c0600
-      data:
-        first: 23
-        second: 721a2300
-      data:
-        first: 33
-        second: b25c3200
-    Sphere67:
-      data:
-        first: 1
-        second: 12890100
-      data:
-        first: 4
-        second: f21c0600
-      data:
-        first: 23
-        second: 701a2300
-      data:
-        first: 33
-        second: b05c3200
-    Sphere68:
-      data:
-        first: 1
-        second: 10890100
-      data:
-        first: 4
-        second: f01c0600
-      data:
-        first: 23
-        second: 6e1a2300
-      data:
-        first: 33
-        second: ae5c3200
-    Sphere69:
-      data:
-        first: 1
-        second: 0e890100
-      data:
-        first: 4
-        second: ee1c0600
-      data:
-        first: 23
-        second: 6c1a2300
-      data:
-        first: 33
-        second: ac5c3200
-    Sphere70:
-      data:
-        first: 1
-        second: 96870100
-      data:
-        first: 4
-        second: 761b0600
-      data:
-        first: 23
-        second: 36192300
-      data:
-        first: 33
-        second: 765b3200
-    Sphere71:
-      data:
-        first: 1
-        second: 94870100
-      data:
-        first: 4
-        second: 741b0600
-      data:
-        first: 23
-        second: 34192300
-      data:
-        first: 33
-        second: 745b3200
-    Sphere72:
-      data:
-        first: 1
-        second: 92870100
-      data:
-        first: 4
-        second: 721b0600
-      data:
-        first: 23
-        second: 32192300
-      data:
-        first: 33
-        second: 725b3200
-    Sphere73:
-      data:
-        first: 1
-        second: 90870100
-      data:
-        first: 4
-        second: 701b0600
-      data:
-        first: 23
-        second: 30192300
-      data:
-        first: 33
-        second: 705b3200
-    Sphere74:
-      data:
-        first: 1
-        second: 8e870100
-      data:
-        first: 4
-        second: 6e1b0600
-      data:
-        first: 23
-        second: 2e192300
-      data:
-        first: 33
-        second: 6e5b3200
-    Sphere75:
-      data:
-        first: 1
-        second: fe880100
-      data:
-        first: 4
-        second: de1c0600
-      data:
-        first: 23
-        second: 601a2300
-      data:
-        first: 33
-        second: a05c3200
-    Sphere76:
-      data:
-        first: 1
-        second: fc880100
-      data:
-        first: 4
-        second: dc1c0600
-      data:
-        first: 23
-        second: 5e1a2300
-      data:
-        first: 33
-        second: 9e5c3200
-    Sphere77:
-      data:
-        first: 1
-        second: f6880100
-      data:
-        first: 4
-        second: d61c0600
-      data:
-        first: 23
-        second: 5a1a2300
-      data:
-        first: 33
-        second: 9a5c3200
-    Sphere78:
-      data:
-        first: 1
-        second: f4880100
-      data:
-        first: 4
-        second: d41c0600
-      data:
-        first: 23
-        second: 581a2300
-      data:
-        first: 33
-        second: 985c3200
-    Sphere79:
-      data:
-        first: 1
-        second: ee880100
-      data:
-        first: 4
-        second: ce1c0600
-      data:
-        first: 23
-        second: 541a2300
-      data:
-        first: 33
-        second: 945c3200
-    Sphere80:
-      data:
-        first: 1
-        second: ec880100
-      data:
-        first: 4
-        second: cc1c0600
-      data:
-        first: 23
-        second: 521a2300
-      data:
-        first: 33
-        second: 925c3200
-    Sphere81:
-      data:
-        first: 1
-        second: e6880100
-      data:
-        first: 4
-        second: c61c0600
-      data:
-        first: 23
-        second: 4e1a2300
-      data:
-        first: 33
-        second: 8e5c3200
-    Sphere82:
-      data:
-        first: 1
-        second: e4880100
-      data:
-        first: 4
-        second: c41c0600
-      data:
-        first: 23
-        second: 4c1a2300
-      data:
-        first: 33
-        second: 8c5c3200
-    Sphere83:
-      data:
-        first: 1
-        second: de880100
-      data:
-        first: 4
-        second: be1c0600
-      data:
-        first: 23
-        second: 481a2300
-      data:
-        first: 33
-        second: 885c3200
-    Sphere84:
-      data:
-        first: 1
-        second: dc880100
-      data:
-        first: 4
-        second: bc1c0600
-      data:
-        first: 23
-        second: 461a2300
-      data:
-        first: 33
-        second: 865c3200
-    Sphere85:
-      data:
-        first: 1
-        second: d6880100
-      data:
-        first: 4
-        second: b61c0600
-      data:
-        first: 23
-        second: 421a2300
-      data:
-        first: 33
-        second: 825c3200
-    Sphere86:
-      data:
-        first: 1
-        second: d4880100
-      data:
-        first: 4
-        second: b41c0600
-      data:
-        first: 23
-        second: 401a2300
-      data:
-        first: 33
-        second: 805c3200
-    Sphere87:
-      data:
-        first: 1
-        second: ce880100
-      data:
-        first: 4
-        second: ae1c0600
-      data:
-        first: 23
-        second: 3c1a2300
-      data:
-        first: 33
-        second: 7c5c3200
-    Sphere88:
-      data:
-        first: 1
-        second: cc880100
-      data:
-        first: 4
-        second: ac1c0600
-      data:
-        first: 23
-        second: 3a1a2300
-      data:
-        first: 33
-        second: 7a5c3200
-    Sphere89:
-      data:
-        first: 1
-        second: c6880100
-      data:
-        first: 4
-        second: a61c0600
-      data:
-        first: 23
-        second: 361a2300
-      data:
-        first: 33
-        second: 765c3200
-    Sphere90:
-      data:
-        first: 1
-        second: c4880100
-      data:
-        first: 4
-        second: a41c0600
-      data:
-        first: 23
-        second: 341a2300
-      data:
-        first: 33
-        second: 745c3200
-    Sphere91:
-      data:
-        first: 1
-        second: 0e870100
-      data:
-        first: 4
-        second: ee1a0600
-      data:
-        first: 23
-        second: be182300
-      data:
-        first: 33
-        second: fe5a3200
-    Sphere92:
-      data:
-        first: 1
-        second: 0c870100
-      data:
-        first: 4
-        second: ec1a0600
-      data:
-        first: 23
-        second: bc182300
-      data:
-        first: 33
-        second: fc5a3200
-    Sphere93:
-      data:
-        first: 1
-        second: ea870100
-      data:
-        first: 4
-        second: ca1b0600
-      data:
-        first: 23
-        second: 80192300
-      data:
-        first: 33
-        second: c05b3200
-    Sphere94:
-      data:
-        first: 1
-        second: 7c880100
-      data:
-        first: 4
-        second: 5c1c0600
-      data:
-        first: 23
-        second: f8192300
-      data:
-        first: 33
-        second: 385c3200
-    Sphere95:
-      data:
-        first: 1
-        second: 7a880100
-      data:
-        first: 4
-        second: 5a1c0600
-      data:
-        first: 23
-        second: f6192300
-      data:
-        first: 33
-        second: 365c3200
-    Sphere96:
-      data:
-        first: 1
-        second: 78880100
-      data:
-        first: 4
-        second: 581c0600
-      data:
-        first: 23
-        second: f4192300
-      data:
-        first: 33
-        second: 345c3200
-    Sphere97:
-      data:
-        first: 1
-        second: 76880100
-      data:
-        first: 4
-        second: 561c0600
-      data:
-        first: 23
-        second: f2192300
-      data:
-        first: 33
-        second: 325c3200
-    Sphere98:
-      data:
-        first: 1
-        second: 70880100
-      data:
-        first: 4
-        second: 501c0600
-      data:
-        first: 23
-        second: ee192300
-      data:
-        first: 33
-        second: 2e5c3200
-    Sphere99:
-      data:
-        first: 1
-        second: 6e880100
-      data:
-        first: 4
-        second: 4e1c0600
-      data:
-        first: 23
-        second: ec192300
-      data:
-        first: 33
-        second: 2c5c3200
-    jemchug:
-      data:
-        first: 1
-        second: 60880100
-      data:
-        first: 4
-        second: 401c0600
-    karta:
-      data:
-        first: 1
-        second: 22880100
-      data:
-        first: 4
-        second: 021c0600
-      data:
-        first: 23
-        second: aa192300
-      data:
-        first: 33
-        second: ea5b3200
-    krishka:
-      data:
-        first: 1
-        second: 3c880100
-      data:
-        first: 4
-        second: 1c1c0600
-    moneti:
-      data:
-        first: 1
-        second: 20880100
-      data:
-        first: 4
-        second: 001c0600
-    osnSunduk:
-      data:
-        first: 1
-        second: 6c870100
-      data:
-        first: 4
-        second: 4c1b0600
-    sunduk:
-      data:
-        first: 1
-        second: 3e880100
-      data:
-        first: 4
-        second: 1e1c0600
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 
